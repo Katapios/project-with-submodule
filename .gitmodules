@@ -1,3 +1,0 @@
-[submodule "submodule-for-project"]
-	path = submodule-for-project
-	url = git@github.com:Katapios/submodule-for-project.git
